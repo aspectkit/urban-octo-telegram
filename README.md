@@ -18,4 +18,4 @@ Please refer to the license in the repo
 ## Build Settings
 Link: https://kitdhing.github.io/urban-octo-telegram/
 
-![image](./Develop/assets/images/horiseon.png)
+![image](/assets/images/horiseon.png)
